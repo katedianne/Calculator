@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\KateCalcu\Calculator\bin\Debug\Calculator_Kate.exe.config
+C:\Users\acer\Desktop\KateCalcu\Calculator\bin\Debug\Calculator_Kate.exe
+C:\Users\acer\Desktop\KateCalcu\Calculator\bin\Debug\Calculator_Kate.pdb
+C:\Users\acer\Desktop\KateCalcu\Calculator\bin\Debug\Calculator_Kate.xml
+C:\Users\acer\Desktop\KateCalcu\Calculator\obj\Debug\Calculator_Kate.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\KateCalcu\Calculator\obj\Debug\Calculator_Kate.Form1.resources
+C:\Users\acer\Desktop\KateCalcu\Calculator\obj\Debug\Calculator_Kate.Resources.resources
+C:\Users\acer\Desktop\KateCalcu\Calculator\obj\Debug\Calculator_Kate.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\KateCalcu\Calculator\obj\Debug\Calculator_Kate.exe
+C:\Users\acer\Desktop\KateCalcu\Calculator\obj\Debug\Calculator_Kate.xml
+C:\Users\acer\Desktop\KateCalcu\Calculator\obj\Debug\Calculator_Kate.pdb
